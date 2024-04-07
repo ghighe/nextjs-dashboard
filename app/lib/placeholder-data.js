@@ -70,6 +70,12 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: '578d8065-2d2c-4aca-bede-b04147da661f',
+    name: 'Galma Ion',
+    email: 'galma@ion.com',
+    image_url: '/customers/balazs-orban.png',
+  },
 ];
 
 const invoices = [
