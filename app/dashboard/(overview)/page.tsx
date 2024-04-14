@@ -7,7 +7,6 @@ import { RevenueChartSkeleton,LatestInvoicesSkeleton,CardSkeleton } from '@/app/
 
 export default async function Page() {
 
-  //get the revenue from DB
 
   return (
     <main>
